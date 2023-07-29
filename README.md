@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rushuuu
+- 👋 Hi, I’m Rushil,
 - 👀 I’m interested in Image processing and Computer Vision.
 - 🌱 I’m currently learning in Machine Learning and Deep learning concepts.
 - 💞️ I’m looking to collaborate on projects related to AI/ML/DL.
